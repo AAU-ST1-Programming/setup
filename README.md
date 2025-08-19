@@ -1,19 +1,16 @@
-# {{REPO_NAME}}
+# Setup af C/C++ Compiler, Visual Studio Code og Arduino
 
-- **PowerPoint slideshow**: `{{REPO_NAME}}.pptx`
+- **PowerPoint slideshow**: `setup.pptx`
 - **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
 - **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
 ---
 
 ## ​ Usage
 
-To use this template:
-
-1. Click **Use this template** on GitHub to create a new repo.
 2. Clone it locally:
    ```bash
-   git clone https://github.com/you/{{REPO_NAME}}.git
-   cd {{REPO_NAME}}
+   git clone https://github.com/AAU-ST1-Programming/setup.git
+   cd setup
 
 ## Forberedelse
 
