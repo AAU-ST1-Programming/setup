@@ -1,8 +1,13 @@
 # Setup af C/C++ Compiler, Visual Studio Code og Arduino
 
-- **PowerPoint slideshow**: `setup.pptx`
-- **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
-- **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
+- **PowerPoint slideshow**: 
+  - Læse rækkefølge:
+    1. Setup Operativsystem:
+      - `Setup MacOS.pptx` (Læs den der passer til dig først)
+      - `Setup Windows.pptx` (Læs den der passer til dig først)
+    2. `Setup.pptx`
+- **setup_questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
+- **files/** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
 ---
 
 ## ​ Usage
