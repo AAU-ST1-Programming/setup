@@ -53,6 +53,7 @@ Windows: Anvendt Programmering 02 Setup Windows.pdf
 - [installation_USB_driver](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=1ca4402e-29d8-46df-b42e-b332008ab794)
 - [install_vscode](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=91bb1191-5163-4abe-a522-b332008ab839)
 - [install_arduino](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=3d007db6-3388-4f43-b252-b2dc00b792a4&start=0)
+- [Arbejde med VS Code](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=8019f6c8-b272-4179-9ee2-b336008b1bf2)
 
 **Opgave Besvarelses Videoer**
 - [Hello VS Code](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=dd70f04c-9946-401f-8e16-b332009af889)
@@ -60,7 +61,6 @@ Windows: Anvendt Programmering 02 Setup Windows.pdf
 - [Hello ESP32](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=697e942b-72e8-4422-a97e-b3320097584f)
 - [Hello ESP32 1](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=70b22061-d5be-4544-9aa4-b336008eedc6)
 - [Hello ESP32 2](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=777007ac-1a5b-4e45-ad4c-b3360090f9dd)
-- [Arbejde med VS Code](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=8019f6c8-b272-4179-9ee2-b336008b1bf2)
 
 Til hver lektion skal man forvente følgende:
 
