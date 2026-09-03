@@ -1,5 +1,7 @@
 # Setup af C/C++ Compiler, Visual Studio Code og Arduino
 
+![files/shared_overview_table.png](files/shared_overview_table.png)
+
 - **PowerPoint slideshow**: 
   - Læse rækkefølge:
     1. Setup Operativsystem:
